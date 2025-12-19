@@ -1,0 +1,28 @@
+{
+  "model_path": "yoga_model_10pose.keras",
+  "num_classes": 10,
+  "labels": [
+    "cobra",
+    "tree",
+    "downdog",
+    "forwardfold",
+    "chair",
+    "warrior2",
+    "warrior3",
+    "plank",
+    "child",
+    "lotus"
+  ],
+  "id2label": {
+    "0": "cobra",
+    "1": "tree",
+    "2": "downdog",
+    "3": "forwardfold",
+    "4": "chair",
+    "5": "warrior2",
+    "6": "warrior3",
+    "7": "plank",
+    "8": "child",
+    "9": "lotus"
+  }
+}
