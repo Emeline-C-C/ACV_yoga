@@ -1,5 +1,5 @@
 {
-  "model_path": "yoga_model_10pose.keras",
+  "model_path": "yoga_model_9pose.keras",
   "num_classes": 9,
   "labels": [
     "cobra",
@@ -22,5 +22,30 @@
     "6": "warrior3",
     "7": "plank",
     "8": "lotus"
+  },
+  "logos_npz_path": "artifacts/logos.npz",
+  "logos_npz_keys": [
+    "cobra",
+    "tree",
+    "downdog",
+    "forwardfold",
+    "chair",
+    "warrior2",
+    "warrior3",
+    "plank",
+    "child",
+    "lotus"
+  ],
+  "logos_files_used": {
+    "cobra": "cobra.png",
+    "tree": "tree.jpg",
+    "downdog": "downdog.png",
+    "forwardfold": "forwardfold.png",
+    "chair": "chair.png",
+    "warrior2": "warrior2.jpg",
+    "warrior3": "warrior3.jpg",
+    "plank": "plank.jpg",
+    "child": "child.png",
+    "lotus": "lotus.jpg"
   }
 }
