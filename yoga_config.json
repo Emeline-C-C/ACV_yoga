@@ -33,7 +33,6 @@
     "warrior2",
     "warrior3",
     "plank",
-    "child",
     "lotus"
   ],
   "logos_files_used": {
@@ -45,7 +44,6 @@
     "warrior2": "warrior2.jpg",
     "warrior3": "warrior3.jpg",
     "plank": "plank.jpg",
-    "child": "child.png",
     "lotus": "lotus.jpg"
   }
 }
